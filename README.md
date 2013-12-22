@@ -12,8 +12,8 @@ that don't support the console object, or the required addon is not installed (i
 example
 -------
 
-You can visit the browserified version of tape tests in my [nested-graph]
-(https://rawgithub.com/dfkaye/nested-graph/master/browser/test-bundle.html) repo to see what it looks like.
+You can visit the browserified version of tape tests in my [simplegraph]
+(https://rawgithub.com/dfkaye/simplegraph/master/browser-test/suite.html) repo to see what it looks like.
 
 On that page you can open the browser console - the dom will still be updated.  Try a few of the built-in methods 
 such as console.info('test') to see the dom update with the new message.  You can clear the console as well,
